@@ -28,6 +28,13 @@ Filtered to ~10,000 English-language reviews from 2025, then applied four topic 
 
 Consistent themes across the stronger methods: Strip proximity, cleanliness, host hospitality, and overall comfort.
 
+## Tableau Dashboard
+Key findings from this analysis are also visualized in an interactive 
+Tableau dashboard exploring price distribution, neighborhood comparisons, 
+host performance, and availability patterns across Las Vegas listings.
+
+[View Dashboard on Tableau Public](https://public.tableau.com/shared/5FMS4BBZD?:display_count=n&:origin=viz_share_link)
+
 ## Tools & Libraries
 
 - **Languages:** Python
